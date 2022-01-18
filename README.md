@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Dhiru794
-- 👀 I’m interested in Data Analyst Job
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Dhiraj Chaudhari
+- 👀 I’m a Student Of CDAC PG-DAC
 - 📫 How to reach me ...
 
 <!---
