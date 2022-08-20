@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhiraj Chaudhari
-- 👀 I’m a Student Of CDAC PG-DAC
+- 👀 I’m a Full Stack Developer At Credit Suisse
 - 📫 How to reach me ...
 
 <!---
